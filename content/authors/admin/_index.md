@@ -59,4 +59,4 @@ highlight_name: true
 
 ## About Me
 
-Zerui Wang is a second-year Ph.D. student at the NDS-group of Shanghai AI Lab and Shanghai Jiao Tong University, supervised by Dahua Lin and co-supervised by Peng Sun. His research lies in distributed training systems for large models, and also in datacenter management and scheduling.
+Zerui Wang is a second-year Ph.D. student at the <a href="https://nds-shlab.github.io/">NDS-group</a> of Shanghai AI Lab and Shanghai Jiao Tong University, supervised by <a href="https://dahua.site">Dahua Lin</a> and co-supervised by <a href="https://nds-shlab.github.io/">Peng Sun</a>. His research lies in distributed training systems for large models, and also in datacenter management and scheduling.
