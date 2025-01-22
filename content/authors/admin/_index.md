@@ -28,14 +28,19 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:wangzerui@pjlab.org.cn'
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/wang-zerui
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=04512xYAAAAJ
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:wangzerui@pjlab.org.cn'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/wang-zerui
+    label: Follow me on Github
+    display:
+      header: true
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=04512xYAAAAJ
 
 
 interests:
@@ -44,50 +49,12 @@ interests:
   - Large Language Model Training 
 
 education:
-  - area: PhD Computer Science
-    institution: Shanghai AI Lab & Shanghai Jiao Tong University
-    date_start: 2023-09-01
-    date_end: 2028-06-01
+  courses:
+    - course: Ph.D. in Computer Science
+      institution: Shanghai AI Lab & Shanghai Jiao Tong University
+      year: Sep 2023 - Present
 
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: code-bracket
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-bar
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: circle-stack
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-simple-walk
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+highlight_name: true
 ---
 
 ## About Me
