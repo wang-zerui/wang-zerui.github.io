@@ -52,7 +52,7 @@ education:
   - area: PhD Computer Science
     institution: Shanghai AI Lab & Shanghai Jiao Tong University
     date_start: 2023-09-01
-    date_end: Present
+    date_end: 2028-06-01
 
 # skills:
 #   - name: Technical Skills
