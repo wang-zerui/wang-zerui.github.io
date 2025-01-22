@@ -2,8 +2,8 @@
 title: 'SchedMate: Large Language Models are DL Scheduling Enhancers'
 
 authors:
-    - Zerui Wang*
-    - Qinghao Hu∗
+    - admin
+    - Qinghao Hu
     - Ana Klimovic
     - Xingcheng Zhang
     - Peng Sun
