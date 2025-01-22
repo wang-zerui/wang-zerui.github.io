@@ -46,12 +46,12 @@ interests:
 education:
   - area: B.S. in Software Engineering
     institution: Xidian University
-    date_start: Sep 2019 
-    date_end: June 2023
+    date_start: 2019-09-01 
+    date_end: 2023-06-01
 
   - area: PhD Computer Science
     institution: Shanghai AI Lab & Shanghai Jiao Tong University
-    date_start: June 2023
+    date_start: 2023-09-01
     date_end: Present
 
 # skills:
