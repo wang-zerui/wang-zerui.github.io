@@ -59,4 +59,4 @@ highlight_name: true
 
 ## About Me
 
-Zerui Wang is a third-year Ph.D. student at Shanghai Jiao Tong University, supervised by <a href="https://dahua.site">Dahua Lin</a> and co-supervised by Peng Sun. His research lies in distributed training systems for large models, and also in datacenter management and scheduling.
+Zerui Wang is a third-year Ph.D. student at Shanghai Jiao Tong University, supervised by <a href="https://dahua.site">Dahua Lin</a> and co-supervised by Peng Sun. He is currently a Redstar Intern (Top Talent) at Xiaohongshu, working on LLM pretraining. His research lies in distributed training systems for large models, and also in datacenter management and scheduling.
