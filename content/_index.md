@@ -38,6 +38,12 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    id: news
+    content:
+      title: News
+      text: |-
+        - 🎉 Our new paper has been accepted by ICLR 2026.
   # - block: experience
   #   content:
   #     title: Experience
