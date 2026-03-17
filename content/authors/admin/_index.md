@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student | Redstar Intern (Top Talent), Xiaohongshu
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
