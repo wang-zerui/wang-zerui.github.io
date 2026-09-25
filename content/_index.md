@@ -43,18 +43,22 @@ sections:
     content:
       title: News
       text: |-
-        - 🎉 Our new paper has been accepted by ICLR 2026.
-  - block: experience
+        - **2026:** [Jet-Long](/publication/jet-long/) has been accepted to NeurIPS 2026.
+        - **Jul 2026:** Our [Jet-Long preprint](/publication/jet-long/) and [code](https://github.com/jet-ai-projects/Jet-Long) are available.
+        - **May 2026:** I joined NVIDIA Research as a research intern.
+        - **2026:** [FlexRL](/publication/flexrl/) appeared at ICLR 2026, and [Zeppelin](/publication/zeppelin/) appeared at EuroSys 2026.
+  - block: markdown
+    id: experience
     content:
       title: Experience
-      date_format: Jan 2006
-      items:
-        - title: Redstar Intern (Top Talent)
-          company: Xiaohongshu
-          date_start: '2026-03-01'
-          date_end: ''
-          description: |2-
-              Working on LLM pretraining.
+      text: |-
+        ### Research Intern
+        **[NVIDIA Research](https://www.nvidia.com/en-us/research/)** · May 2026 – Present
+
+        ### Redstar Intern (Top Talent)
+        **Xiaohongshu** · Started Oct 2025
+
+        Working on LLM pretraining.
     design:
       columns: '2'
     # - block: portfolio

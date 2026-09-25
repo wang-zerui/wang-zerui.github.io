@@ -20,11 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Student
+role: Ph.D. Student · Research Intern
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanghai AI Lab & Shanghai Jiao Tong University
+  - name: Shanghai Jiao Tong University
+  - name: NVIDIA Research
+    url: https://www.nvidia.com/en-us/research/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -44,19 +46,22 @@ social:
 
 
 interests:
-  - Machine Learning System
+  - Machine Learning Systems
   - Distributed Systems
-  - Large Language Model Training 
+  - Large-Scale Model Training and Reinforcement Learning
 
 education:
   courses:
     - course: Ph.D. in Computer Science
-      institution: Shanghai Jiao Tong University & Shanghai AI Lab 
+      institution: Shanghai Jiao Tong University
       year: Sep 2023 - Present
 
-highlight_name: true
 ---
 
 ## About Me
 
-Zerui Wang is a third-year Ph.D. student at Shanghai Jiao Tong University, supervised by <a href="https://dahua.site">Dahua Lin</a> and co-supervised by Peng Sun. He is currently a Redstar Intern (Top Talent) at Xiaohongshu, working on LLM pretraining. His research lies in distributed training systems for large models, and also in datacenter management and scheduling.
+I am a Ph.D. student at Shanghai Jiao Tong University, supervised by [Dahua Lin](https://dahua.site) and [Rong Chen](https://ipads.sjtu.edu.cn/pub/members/rong_chen). I also work closely with Peng Sun and Qinghao Hu.
+
+Since May 2026, I have been a research intern at [NVIDIA Research](https://www.nvidia.com/en-us/research/). My experience also includes LLM pretraining at Xiaohongshu, where I joined as a Redstar Intern (Top Talent) in October 2025.
+
+My research focuses on machine learning systems, including distributed training and reinforcement learning for large models, GPU scheduling, and efficient sequence modeling.

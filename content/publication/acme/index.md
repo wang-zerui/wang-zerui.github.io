@@ -2,8 +2,8 @@
 title: 'Characterization of Large Language Model Development in the Datacenter'
 
 authors:
-    - Qinghao Hu*
-    - Zhisheng Ye*
+    - Qinghao Hu
+    - Zhisheng Ye
     - admin
     - Guoteng Wang
     - Meng Zhang
